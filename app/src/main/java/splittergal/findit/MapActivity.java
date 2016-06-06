@@ -3,7 +3,7 @@ package splittergal.findit;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 
-public class Map extends AppCompatActivity {
+public class MapActivity extends AppCompatActivity {
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {

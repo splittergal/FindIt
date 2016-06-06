@@ -1,5 +1,12 @@
 <resources>
     <string name="app_name">Find It</string>
-    <string name="tapme">Login</string>
-    <string name="login">login</string>
+    <string name="LoginBtm">Login</string>
+    <string name="NameTxt">Name</string>
+    <string name="LoginActivityTxt">Login activity</string>
+    <string name="PasswordTxt">Password</string>
+    <string name="RegisterTxt">Or register new user</string>
+    <string name="RegisterBtm">Register</string>
+    <string name="MainMenuBtm">Open main menu</string>
+    <string name="RegisterActivityTxt">Register your user here</string>
+    <string name="EmailTxt">Email</string>
 </resources>

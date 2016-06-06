@@ -3,11 +3,11 @@ package splittergal.findit;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 
-public class Tags extends AppCompatActivity {
+public class OptionsActivity extends AppCompatActivity {
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_tags);
+        setContentView(R.layout.activity_options);
     }
 }
